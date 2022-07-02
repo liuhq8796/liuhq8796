@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **liuhq8796/liuhq8796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi，我是 Lucas Liu，一名前端开发工程师。
+- 🌱 现在正在学习 Vue3 和 Typescript 的知识，因为工作项目技术栈升级，开始用这些新东西了（算是比较新吧），好耶！
+- 👀 平时我对动漫和游戏很感兴趣，经常在B站看番，玩一玩原神和崩三。偶尔看看电影，大多是科幻或者搞笑作品。
