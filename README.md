@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi，我是 Lucas Liu，一名前端开发工程师。
-- 🌱 现在正在使用的技术栈有 Vue3、Typescript、Webpack、Docker、Nginx、Git 等。
-- 👀 平时我对动漫和游戏很感兴趣，经常在 B 站看番，玩一玩原神和一些音游，偶尔看看科幻或者搞笑电影。
+-   👋 Hi，我是 Lucas Liu，一名前端开发工程师。
+-   🌱 现在正在使用的技术栈有 Vue3、Typescript、Webpack、Vite、Docker、Nginx、Git 等。
+-   👀 平时我对动漫和游戏很感兴趣，经常在 B 站看番，玩一玩原神和一些音游，偶尔看看科幻或者搞笑电影。
 
 ### 尤大掘金直播记录
 
